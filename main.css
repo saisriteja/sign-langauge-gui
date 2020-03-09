@@ -1,0 +1,14 @@
+.header {
+    padding: 20px;
+    text-align: center;
+    background: #251abc;
+    color: white;
+    font-size: 25px;
+  }
+  .subheader {
+    padding: 7px;
+    text-align: center;
+    background: #1a6ebc;
+    color: white;
+    font-size: 25px;
+  }
